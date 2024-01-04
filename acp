@@ -2,3 +2,5 @@
 git add .
 git commit -m "$1"
 git push
+cd ./../123/cad2023_ag4
+git pull
